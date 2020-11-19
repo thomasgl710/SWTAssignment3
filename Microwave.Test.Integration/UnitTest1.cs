@@ -25,5 +25,11 @@ namespace Microwave.Test.Integration
         {
             Assert.Pass();
         }
+        [Test]
+        public void Test4()
+        {
+            var hej = 4;
+            Assert.That(hej, Is.EqualTo(4));
+        }
     }
 }
