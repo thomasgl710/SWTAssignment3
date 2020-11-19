@@ -16,7 +16,10 @@ namespace Microwave.Test.Integration
         {
             Assert.Pass();
         }
-
+        /// <summary>
+        /// Nice
+        /// hej med dig
+        /// </summary>
         [Test]
         public void Test2()
         {
