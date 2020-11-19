@@ -8,7 +8,9 @@ namespace Microwave.Test.Integration
         public void Setup()
         {
         }
-
+        /// <summary>
+        /// Write to master
+        /// </summary>
         [Test]
         public void Test1()
         {
