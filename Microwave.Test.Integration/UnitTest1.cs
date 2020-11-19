@@ -20,5 +20,10 @@ namespace Microwave.Test.Integration
             //Hejhej
             Assert.Pass();
         }
+        [Test]
+        public void Test3()
+        {
+            Assert.Pass();
+        }
     }
 }
