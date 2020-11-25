@@ -4,6 +4,7 @@ namespace Microwave.Test.Integration
 {
     public class Tests
     {
+        //heri kan der laves et setup der køres hver gang inden test.
         [SetUp]
         public void Setup()
         {
